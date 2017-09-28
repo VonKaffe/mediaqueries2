@@ -1,0 +1,52 @@
+
+header:before{content:url(images/NiP_Logo.png); }
+
+header { text-align: center;  font-family: "Roboto Light"; color:grey; width:auto;  }
+
+ul{text-align: center; list-style-type: none;   font-family:"Roboto Light"; width:auto;   }
+
+a {text-decoration: none; color:black; width:auto; }
+
+nav{border: 2px solid blue; width:auto; }
+
+
+
+main{text-align: center; font-family: "Roboto Regular"; ; margin:auto;  width:auto; }
+
+
+main:after{content: url(images/xtrfy.jpg);  width:auto; align-content: center; float:right;}
+
+
+
+
+
+
+
+
+
+body{margin:auto; width:auto; }
+
+
+@media screen{ (min-width:768px; max-width:1200px;
+
+    a{width:100%;}
+
+header {width:100%;
+
+main{widht:100%; dis
+
+nav{width:100%;
+
+body {
+    width: 100%;
+
+}
+
+    @media print {
+
+        header {width:100%;
+
+
+
+
+
